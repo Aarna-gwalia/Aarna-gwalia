@@ -1,18 +1,113 @@
-## Hi, I'm Aarna Gwalia 
+<div align="center">
 
-Blockchain technology student at savitribai phule pune university</br>
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarnagwalia28@gmail.com) 
+# ⚡ Aarna Gwalia
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aarna-gwalia&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aarna-gwalia&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarna-gwalia&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Building things where Blockchain, AI, and Ambition collide.
+
+*"The future isn't something I wait for. It's something I prototype."*
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aarna-gwalia&icon=4&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 Who Am I?
 
+```bash
+$ whoami
+
+Name        -> Aarna Gwalia
+Location    -> Pune, India
+Role        -> Blockchain Technology Student
+Mission     -> Build products people remember
+Status      -> Learning, shipping, repeating
+Coffee      -> Required
+```
+
+---
+
+## 🚀 Current Quest Log
+
+🔹 Smart Contracts & Solidity
+
+🔹 Hyperledger Fabric
+
+🔹 AWS Cloud & Deployment
+
+🔹 AI-powered Applications
+
+🔹 Web3 Product Development
+
+🔹 Hackathons & Open Source
+
+---
+
+## ⚔️ Tech Arsenal
+
+### Blockchain
+
+* Solidity
+* Ethereum
+* Hyperledger Fabric
+* Corda
+* Smart Contracts
+
+### Development
+
+* Python
+* JavaScript
+* React
+* Node.js
+* Git
+
+### Cloud
+
+* AWS EC2
+* Linux
+* Apache
+
+---
+
+## 🏗 Things I've Built
+
+### 🛡 DeskGuardian
+
+AI-powered monitoring system using computer vision and MediaPipe.
+
+---
+
+## 📈 GitHub Activity
+
+I'm not trying to collect repositories.
+
+I'm trying to collect skills, failures, lessons, and products.
+
+Every commit is a step toward building something useful.
+
+---
+
+## 🎯 What I'm Working Toward
+
+Building expertise in:
+
+* Blockchain Engineering
+* Smart Contract Security
+* Web3 Products
+* Cloud Infrastructure
+* AI Integration
+
+---
+
+## 🌌 Philosophy
+
+> Most people consume technology.
+>
+> I want to create it.
+
+---
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarna-gwalia-8ba777306)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Aarna-gwalia)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aarnagwalia@gmail.com)"
