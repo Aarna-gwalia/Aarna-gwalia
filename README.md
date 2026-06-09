@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Aarna Gwalia.png" width="100%">
+</p>
 <div align="center">
 
 # ⚡ Aarna Gwalia
