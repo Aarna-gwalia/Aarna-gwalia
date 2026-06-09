@@ -1,6 +1,9 @@
 <p align="center">
   <img src="Aarna Gwalia.png" width="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Blockchain+Technology+Student;Web3+Builder;AI+Explorer;Future+Founder;Always+Learning+Something+New" />
+</p>
 <div align="center">
 
 # ⚡ Aarna Gwalia
